@@ -1,0 +1,10 @@
+# Local task definition and secrets
+config/task.md
+.env
+
+# Output files (write results to output/)
+output/
+*.csv
+*.tsv
+*.xlsx
+*.jsonl
